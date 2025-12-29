@@ -25,8 +25,8 @@ Um den Code auszuführen, folgen Sie diesen Schritten:
 
 1.  **Repository klonen:**
     ```bash
-    git clone <URL-ZU-DEINEM-REPO>
-    cd <DEIN-REPO-NAME>
+    git clone https://github.com/r9119/DAW_MC.git
+    cd DAW_MC
     ```
 
 2.  **Abhängigkeiten installieren:**
