@@ -18,6 +18,8 @@ Das Projekt ist in Lerneinheiten (LE) unterteilt, die den Entwicklungsprozess do
 
 * **`LE5_Pipeline_Comparison.ipynb`** (**Main File**): Die finale, modulare Pipeline. Beinhaltet die Funktionen zur Rohdatenakquise, Bereinigung und Anwendung der Aggregationsmethoden.
 * `requirements.txt`: Liste der benötigten Python-Bibliotheken.
+* `data`-file: Daten und Outputs sind hier abgespeichert
+* `notebooks`-file: Alle Python notebooks (auch das LE5_Pipeline_Comparison.ipynb
 
 ## Installation & Setup
 
