@@ -1,0 +1,25 @@
+# Python & Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+
+# IDEs (PyCharm, VS Code)
+.idea/
+.vscode/
+
+# Systemdateien
+.DS_Store
+Thumbs.db
+
+# DATEN (Wichtig: Verhindert das Hochladen riesiger CSVs)
+data/
+data_pipeline_output/
+data_pipeline_output_final/
+*.csv
+*.parquet
+*.zip
+
+# Lokale Umgebungen
+venv/
+env/
+.env
